@@ -1,4 +1,4 @@
 # My_Repo
 My first Repo
 <br>
-I am Rajan Kumar Singh
+I am Rajan Kumar Singh Chitkara
